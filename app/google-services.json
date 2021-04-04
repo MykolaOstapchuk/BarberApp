@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425383580488",
+    "firebase_url": "https://barsber-2b562.firebaseio.com",
+    "project_id": "barsber-2b562",
+    "storage_bucket": "barsber-2b562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425383580488:android:4d05076c779438baf2197d",
+        "android_client_info": {
+          "package_name": "com.example.barsber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425383580488-tgsc18uh3f6530t2jrv0d7k163969i24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXWfd3u7y73DAP_kR6NI1UGrJg3HJLfk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425383580488-tgsc18uh3f6530t2jrv0d7k163969i24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
